@@ -1,0 +1,22 @@
+So, welcome to pingr! i will tell you how to use pingr. [MADE BY NOBOD111Y] [Feel free to mod!] [BETA 1.1]
+
+1: How to target other websites, not google.
+
+So, right click any pingr application and then click "Edit" then, edit "ping google.com" to another website. [THIS IS MANDATORY. DO NOT DELETE THE PING AT START OF SCRIPT.]
+Then, save the script [or mod it of course] then execute the script. Logs shall look like this:
+
+C:\Users\YourUser\Desktop\pingr>ping yourwebsite.com
+
+Pinging yourwebsite.com [198.00.00.00] with 32 bytes of data:
+Reply from 198.00.00.00: bytes=32 time=37ms TTL=116
+Reply from 198.00.00.00: bytes=32 time=33ms TTL=116
+Reply from 198.00.00.00: bytes=32 time=45ms TTL=116
+
+Yes, that's the logs of course!
+
+2. How to use pingr-spammer
+
+Do not delete pingr-spammer2. It is important for the loop.
+
+pingr-spammer spams pings on a website. [HOW TO EDIT PINGR SPAMMERS] So, pingr spammer count is only 2. edit all pingr-spammers and run pingr-spammer.
+
